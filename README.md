@@ -1,2 +1,2 @@
 # Door-s-statement-recognition
-Door's statement recognition with Tensorflow
+Doors statement recognition with Tensorflow
